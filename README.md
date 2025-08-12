@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimalsha Maduwanthi</h1>
-<h3 align="center">A passionate Quality Assurance Engineer, Frontend Developer, and Backend Developer.</h3>
+<h3 align="center">Quality Assurance Engineer | Passionate About Software Quality & Continuous Improvement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimalsh&label=Profile%20views&color=0e75b6&style=flat" alt="nimalsh" /> </p>
 
