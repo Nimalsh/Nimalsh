@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Nimalsha Maduwanthi**, a passionate **Quality Assurance Engineer**, **Frontend Developer**, and **Backend Developer**.  
-I enjoy building reliable, high-performing applications and ensuring they meet the highest quality standards — from crafting pixel-perfect UIs to designing robust backend logic and thoroughly testing every feature.
+I’m an enthusiastic and quick learner who thrives on exploring new technologies and transforming ideas into impactful solutions. I enjoy every step of the process — from designing engaging, responsive interfaces to building solid backend systems — and take pride in delivering high-quality applications. My adaptability, curiosity, and love for problem-solving keep me motivated to continuously grow and bring positive energy to every project I work on.
 
 - 🔭 Currently working as a QA Engineer Intern at Scicom Lanka (Pvt) Ltd  
 - 🌱 Exploring advanced concepts in React, Spring Boot, and automated testing  
