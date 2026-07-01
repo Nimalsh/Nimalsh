@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimalsh" alt="nimalsh" /></a> </p>
 
-- 🔭 I’m currently working **as a QA Engineer Intern at Omobio (Pvt) Ltd**
+- 🔭 I’m currently working **as a QA Engineer Trainee at Omobio (Pvt) Ltd**
 
 - 🌱 I’m currently learning **Automation Testing**
 
