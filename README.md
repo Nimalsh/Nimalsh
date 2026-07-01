@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nimalsha Maduwanthi</h1>
-<h3 align="center">Quality Assurance Engineer | Passionate About Software Quality & Continuous Improvement</h3>
+<h3 align="center">Automation Quality Assurance Engineer | Passionate About Software Quality & Continuous Improvement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimalsh&label=Profile%20views&color=0e75b6&style=flat" alt="nimalsh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimalsh" alt="nimalsh" /></a> </p>
 
-- 🔭 I’m currently working **as a QA Engineer Intern at Scicom Lanka (Pvt) Ltd**
+- 🔭 I’m currently working **as a QA Engineer Intern at Omobio (Pvt) Ltd**
 
-- 🌱 I’m currently learning **Automated Testing**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 👨‍💻 All of my projects are available at [https://nextjs-portfolio-mu-sandy-88.vercel.app/](https://nextjs-portfolio-mu-sandy-88.vercel.app/)
 
-- 💬 Ask me about **Automated Testing (Playwright, Selenium),React, Spring Boot,**
+- 💬 Ask me about **Automated Testing (Playwright, Selenium)**
 
 - 📫 How to reach me **nimalshapg@gmail.com**
 
